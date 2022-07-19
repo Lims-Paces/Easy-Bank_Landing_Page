@@ -317,7 +317,7 @@ h2 {
 }
 
 
-/* .hero-image::before {
+ .hero-image::before {
     content: '';
     position: absolute;
     width: 100%;
@@ -326,7 +326,7 @@ h2 {
     background-size: 93%;
     background-repeat: no-repeat;
     background-position: center bottom;
-} */
+} 
 
 .hero-image::after {
     content: '';
