@@ -1,1 +1,1 @@
-# Easy-Bank_Landing_Page
+# http://easy-bank-landing-page-team-one.netlify.app
